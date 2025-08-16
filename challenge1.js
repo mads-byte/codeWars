@@ -9,7 +9,7 @@
 
 
 // MY SOLUTION:
-var isSquare = function (n) {
+function isSquare(n) {
     let root = Math.sqrt(n);
     if (root % 1 === 0) {
         return true;
@@ -18,3 +18,5 @@ var isSquare = function (n) {
         return false;
     }
 }
+
+/* I felt okay with this one. I do think that I could have done it a little cleaner(more efficiently) though */
