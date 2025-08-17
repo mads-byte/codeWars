@@ -1,1 +1,17 @@
-console.log('hi')
+/*
+Write a function that always returns 5
+
+Sounds easy right? Just bear in mind that you can't use any of the following characters: 0123456789*+-/
+
+Good luck :)
+
+*/
+
+function unusualFive() {
+    let arr = ["a", "b", "c", "d", "e"];
+    return arr.length;
+};
+
+/*
+I felt really comfortable with this one. Only took a few minutes to think of a solution;
+*/
