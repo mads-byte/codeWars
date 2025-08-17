@@ -32,4 +32,5 @@ function findEvenIndex(arr) {
 
 console.log(findEvenIndex([20, 10, 30, 10, 10, 15, 35]));
 
-/* I initially thought I knew what I was doing when I started but it was definitely harder than expected and I still don't have the solution*/
+/* I initially thought I knew what I was doing when I started but it was definitely 
+harder than expected and I didn't get to the solution */
