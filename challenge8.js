@@ -1,3 +1,12 @@
+/*
+When provided with a number between 0-9, return it in words. Note that the input is guaranteed to be within the range of 0-9.
+
+Input: 1
+
+Output: "One".
+*/
+
+
 function switchItUp(number) {
     let result
     switch (number) {
@@ -36,3 +45,9 @@ function switchItUp(number) {
     return result;
 
 };
+
+/*
+I found this to be easy but once again, it took a little longer 
+than it should have because of syntax errors. I will be working 
+on remembering syntax a little better.
+*/
